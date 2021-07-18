@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Helmet } from 'react-helmet';
-import '../assets/css/style.css';
+import '../../assets/css/style.css';
 
 const posts = [{
     id: 2,
